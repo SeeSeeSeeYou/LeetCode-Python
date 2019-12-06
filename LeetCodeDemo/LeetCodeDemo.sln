@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LeetCodeDemo", "LeetCodeDemo\LeetCodeDemo.pyproj", "{2E890EBF-7600-4647-9290-2F2EE92312BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E890EBF-7600-4647-9290-2F2EE92312BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E890EBF-7600-4647-9290-2F2EE92312BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {396DADD7-70D1-4EFC-A6B1-36CFF8C605D1}
+	EndGlobalSection
+EndGlobal
